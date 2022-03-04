@@ -21,7 +21,7 @@ cat << EOF > /usr/local/etc/xray/config.json
                 "port": 8080,
                 "settings": {
                         "clients": [{
-                                "id": "73419d1a-cbd6-4b6f-db1d-38d78b3fb109",
+                                "id": "6e11375a-c0fe-431a-bb55-9eb6f0e845a5",
                                 "alterId": 64,
                                 "security": "chacha20-poly1305"
                         }]
